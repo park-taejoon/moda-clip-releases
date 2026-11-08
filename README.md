@@ -1,5 +1,7 @@
 # Moda Clip 다운로드
 
+소개·사용법은 [modaolive.com/download/modaclip](https://www.modaolive.com/download/modaclip)에서 봅니다.
+
 최신 설치 파일은 **Releases**에서 받습니다.
 
 - Windows: `*-win-x64-setup.exe` (설치) / `*-win-x64-portable.exe` (포터블)
